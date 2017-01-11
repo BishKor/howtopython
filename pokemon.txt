@@ -1,0 +1,152 @@
+# 	Name 		Type 		Height 		Weight 			BMI
+001	Bulbasaur	GRASS POISON	2′4″ (0.71m)	15.2 lbs (6.9 kg)	13.7
+002	Ivysaur		GRASS POISON	3′3″ (0.99m)	28.7 lbs (13.0 kg)	13.3
+003	Venusaur	GRASS POISON	6′7″ (2.01m)	220.5 lbs (100.0 kg)	24.8
+004	Charmander	FIRE 		2′0″ (0.61m)	18.7 lbs (8.5 kg)	22.8
+005	Charmeleon	FIRE 		3′7″ (1.09m)	41.9 lbs (19.0 kg)	16.0
+006	Charizard	FIRE DRAGON	5′7″ (1.70m)	243.6 lbs (110.5 kg)	38.2
+007	Squirtle	WATER		1′8″ (0.51m)	19.8 lbs (9.0 kg)	34.6
+008	Wartortle	WATER		3′3″ (0.99m)	49.6 lbs (22.5 kg)	23.0
+009	Blastoise	WATER		5′3″ (1.60m)	188.5 lbs (85.5 kg)	33.4
+010	Caterpie	BUG		1′0″ (0.30m)	6.4 lbs (2.9 kg)	32.2
+011	Metapod		BUG		2′4″ (0.71m)	21.8 lbs (9.9 kg)	19.6
+012	Butterfree	BUG FLYING	3′7″ (1.09m)	70.5 lbs (32.0 kg)	26.9
+013	Weedle		BUG POISON	1′0″ (0.30m)	7.1 lbs (3.2 kg)	35.6
+014	Kakuna		BUG POISON	2′0″ (0.61m)	22 lbs (10.0 kg)	26.9
+015	Beedrill	BUG POISON	3′3″ (0.99m)	65 lbs (29.5 kg)	30.1
+016	Pidgey		NORMAL FLYING	1′0″ (0.30m)	4 lbs (1.8 kg)		20.0
+017	Pidgeotto	NORMAL FLYING	3′7″ (1.09m)	66.1 lbs (30.0 kg)	25.3
+018	Pidgeot		NORMAL FLYING	4′11″(1.50m)	87.1 lbs (39.5 kg)	17.6
+019	Rattata		NORMAL 		1′0″ (0.30m)	7.7 lbs (3.5 kg)	38.9
+020	Raticate	NORMAL		2′4″ (0.71m)	40.8 lbs (18.5 kg)	36.7
+021	Spearow		NORMAL FLYING	1′0″ (0.30m)	4.4 lbs (2.0 kg)	22.2
+022	Fearow		NORMAL FLYING	3′11″(1.19m)	83.8 lbs (38.0 kg)	26.8
+023	Ekans		POISON		6′7″ (2.01m)	15.2 lbs (6.9 kg)	1.7
+024	Arbok		POISON		11′6″(3.51m)	143.3 lbs (65.0 kg)	5.3
+025	Pikachu		ELECTRIC	1′4″ (0.41m)	13.2 lbs (6.0 kg)	35.7
+026	Raichu		ELECTRIC	2′7″ (0.79m)	66.1 lbs (30.0 kg)	48.1
+027	Sandshrew	GROUND		2′0″ (0.61m)	26.5 lbs (12.0 kg)	32.2
+028	Sandslash	GROUND		3′3″ (0.99m)	65 lbs (29.5 kg)	30.1
+029	Nidoran♀	POISON		1′4″ (0.41m)	15.4 lbs (7.0 kg)	41.6 
+030	Nidorina	POISON 		2′7″ (0.79m)	44.1 lbs (20.0 kg)	32.0 
+031	Nidoqueen	POISON GROUND	4′3″ (1.30m)	132.3 lbs (60.0 kg)	35.5 
+032	Nidoran♂	POISON		1′8″ (0.51m)	19.8 lbs (9.0 kg)	34.6 
+033	Nidorino	POISON 		2′11″(0.89m)	43 lbs (19.5 kg)	24.6 
+034	Nidoking	POISON GROUND	4′7″ (1.40m)	136.7 lbs (62.0 kg)	31.6 
+035	Clefairy	FAIRY		2′0″ (0.61m)	16.5 lbs (7.5 kg)	20.2 
+036	Clefable	FAIRY		4′3″ (1.30m)	88.2 lbs (40.0 kg)	23.7 
+037	Vulpix		FIRE		2′0″ (0.61m)	21.8 lbs (9.9 kg)	26.6 
+038	Ninetales	FIRE		3′7″ (1.09m)	43.9 lbs (19.9 kg)	16.7 
+039	Jigglypuff	NORMAL FAIRY	1′8″ (0.51m)	12.1 lbs (5.5 kg)	21.1 
+040	Wigglytuff	NORMAL FAIRY	3′3″ (0.99m)	26.5 lbs (12.0 kg)	12.2 
+041	Zubat		POISON FLYING	2′7″ (0.79m)	16.5 lbs (7.5 kg)	12.0 
+042	Golbat		POISON FLYING	5′3″ (1.60m)	121.3 lbs (55.0 kg)	21.5 
+043 	Oddish		GRASS POISON	1′8″ (0.51m)	11.9 lbs (5.4 kg)	20.8 
+044	Gloom		GRASS POISON	2′7″ (0.79m)	19 lbs (8.6 kg)	13.8 
+045	Vileplume	GRASS POISON	3′11″(1.19m)	41 lbs (18.6 kg)	13.1 
+046	Paras		BUG GRASS	1′0″ (0.30m)	11.9 lbs (5.4 kg)	60.0 
+047	Parasect	BUG GRASS	3′3″ (0.99m)	65 lbs (29.5 kg)	30.1 
+048	Venonat		BUG POISON	3′3″ (0.99m)	66.1 lbs (30.0 kg)	30.6 
+049	Venomoth	BUG POISON	4′11″(1.50m)	27.6 lbs (12.5 kg)	5.6 
+050	Diglett		GROUND 		0′8″ (0.20m)	1.8 lbs (0.8 kg)	20.0 
+051	Dugtrio		GROUND		2′4″ (0.71m)	73.4 lbs (33.3 kg)	66.1 
+052	Meowth		NORMAL 		1′4″ (0.41m)	9.3 lbs (4.2 kg)	25.0 
+053	Persian		NORMAL 		3′3″ (0.99m)	70.5 lbs (32.0 kg)	32.6 
+054	Psyduck		WATER 		2′7″ (0.79m)	43.2 lbs (19.6 kg)	31.4 
+055	Golduck		WATER		5′7″ (1.70m)	168.9 lbs (76.6 kg)	26.5 
+056	Mankey		FIGHTING	1′8″ (0.51m)	61.7 lbs (28.0 kg)	107.7 
+057	Primeape	FIGHTING	3′3″ (0.99m)	70.5 lbs (32.0 kg)	32.6 
+058	Growlithe	FIRE		2′4″ (0.71m)	41.9 lbs (19.0 kg)	37.7 
+059	Arcanine	FIRE		6′3″ (1.91m)	341.7 lbs (155.0 kg)	42.5 
+060	Poliwag		WATER		2′0″ (0.61m)	27.3 lbs (12.4 kg)	33.3 
+061	Poliwhirl	WATER		3′3″ (0.99m)	44.1 lbs (20.0 kg)	20.4 
+062	Poliwrath	WATER FIGHTING	4′3″ (1.30m)	119 lbs (54.0 kg)	32.0 
+063	Abra		PSYCHIC		2′11″(0.89m)	43 lbs (19.5 kg)	24.6 
+064	Kadabra		PSYCHIC		4′3″ (1.30m)	124.6 lbs (56.5 kg)	33.4 
+065	Alakazam	PSYCHIC		4′11″(1.50m)	105.8 lbs (48.0 kg)	21.3
+066	Machop		FIGHTING	2′7″ (0.79m)	43 lbs (19.5 kg)	31.2
+067	Machoke		FIGHTING	4′11″(1.50m)	155.4 lbs (70.5 kg)	31.3
+068	Machamp		FIGHTING	5′3″ (1.60m)	286.6 lbs (130.0 kg)	50.8
+069	Bellsprout	GRASS POISON	2′4″ (0.71m)	8.8 lbs (4.0 kg)	7.9
+070	Weepinbell	GRASS POISON	3′3″ (0.99m)	14.1 lbs (6.4 kg)	6.5
+071	Victreebel	GRASS POISON	5′7″ (1.70m)	34.2 lbs (15.5 kg)	5.4
+072	Tentacool	WATER POISON	2′11″(0.89m)	100.3 lbs (45.5 kg)	57.4
+073	Tentacruel	WATER POISON	5′3″ (1.60m)	121.3 lbs (55.0 kg)	21.5
+074	Geodude		ROCK GROUND	1′4″ (0.41m)	44.1 lbs (20.0 kg)	119.0
+075	Graveler	ROCK GROUND	3′3″ (0.99m)	231.5 lbs (105.0 kg)	107.1
+076	Golem		ROCK GROUND	4′7″ (1.40m)	661.4 lbs (300.0 kg)	153.1 
+077	Ponyta		FIRE 		3′3″ (0.99m)	66.1 lbs (30.0 kg)	30.6 
+078	Rapidash	FIRE		5′7″ (1.70m)	209.4 lbs (95.0 kg)	32.9 
+079	Slowpoke	WATER PSYCHIC	3′11″(1.19m)	79.4 lbs (36.0 kg)	25.4 
+080	Slowbro		WATER PSYCHIC	5′3″ (1.60m)	173.1 lbs (78.5 kg)	30.7 
+081	Magnemite	ELECTRIC STEEL	1′0″ (0.30m)	13.2 lbs (6.0 kg)	66.7
+082	Magneton	ELECTRIC STEEL	3′3″ (0.99m)	132.3 lbs (60.0 kg)	61.2
+083	Farfetch'd	NORMAL FLYING	2′7″ (0.79m)	33.1 lbs (15.0 kg)	24.0
+084	Doduo		NORMAL FLYING	4′7″ (1.40m)	86.4 lbs (39.2 kg)	20.0
+085	Dodrio		NORMAL FLYING	5′11″(1.80m)	187.8 lbs (85.2 kg)	26.3
+086	Seel		WATER		3′7″ (1.09m)	198.4 lbs (90.0 kg)	75.8
+087	Dewgong		WATER ICE	5′7″ (1.70m)	264.6 lbs (120.0 kg)	41.5
+088	Grimer		POISON 		2′11″(0.89m)	66.1 lbs (30.0 kg)	37.9 
+089	Muk		POISON		3′11″(1.19m)	66.1 lbs (30.0 kg)	21.2
+090	Shellder	WATER		1′0″ (0.30m)	8.8 lbs (4.0 kg)	44.4
+091	Cloyster	WATER ICE	4′11″(1.50m)	292.1 lbs (132.5 kg)	58.9
+092	Gastly		GHOST POISON	4′3″ (1.30m)	0.2 lbs (0.1 kg)	0.1
+093	Haunter		GHOST POISON	5′3″ (1.60m)	0.2 lbs (0.1 kg)	0.0
+094	Gengar		GHOST POISON	4′11″(1.50m)	89.3 lbs (40.5 kg)	18.0
+095	Onix		ROCK GROUND	29′0″(8.79m)	463 lbs (210.0 kg)	2.7 
+096	Drowzee		PSYCHIC		3′3″ (0.99m)	71.4 lbs (32.4 kg)	33.1 
+097	Hypno		PSYCHIC		5′3″ (1.60m)	166.7 lbs (75.6 kg)	29.5 
+098	Krabby		WATER		1′4″ (0.41m)	14.3 lbs (6.5 kg)	38.7 
+099	Kingler		WATER		4′3″ (1.30m)	132.3 lbs (60.0 kg)	35.5 
+100	Voltorb		ELECTRIC	1′8″ (0.51m)	22.9 lbs (10.4 kg)	40.0 
+101	Electrode	ELECTRIC	3′11″(1.19m)	146.8 lbs (66.6 kg)	47.0 
+102	Exeggcute	GRASS PSYCHIC	1′4″ (0.41m)	5.5 lbs (2.5 kg)	14.9 
+103	Exeggutor	GRASSPSYCHIC	6′7″ (2.01m)	264.6 lbs (120.0 kg)	29.7
+104	Cubone		GROUND		1′4″ (0.41m)	14.3 lbs (6.5 kg)	38.7
+105	Marowak		GROUND		3′3″ (0.99m)	99.2 lbs (45.0 kg)	45.9 
+106	Hitmonlee	FIGHTING	4′11″(1.50m)	109.8 lbs (49.8 kg)	22.1 
+107	Hitmonchan	FIGHTING	4′7″ (1.40m)	110.7 lbs (50.2 kg)	25.6 
+108	Lickitung	NORMAL		3′11″(1.19m)	144.4 lbs (65.5 kg)	46.3 
+109	Koffing		POISON		2′0″ (0.61m)	2.2 lbs (1.0 kg)	2.7 
+110	Weezing		POISON		3′11″(1.19m)	20.9 lbs (9.5 kg)	6.7 
+111	Rhyhorn		GROUND ROCK	3′3″ (0.99m)	253.5 lbs (115.0 kg)	117.3 
+112	Rhydon		GROUND ROCK	6′3″ (1.91m)	264.6 lbs (120.0 kg)	32.9 
+113	Chansey		NORMAL		3′7″ (1.09m)	76.3 lbs (34.6 kg)	29.1 
+114	Tangela		GRASS		3′3″ (0.99m)	77.2 lbs (35.0 kg)	35.7 
+115	Kangaskhan	NORMAL		7′3″ (2.21m)	176.4 lbs (80.0 kg)	16.4 
+116	Horsea		WATER		1′4″ (0.41m)	17.6 lbs (8.0 kg)	47.6
+117	Seadra		WATER		3′11″(1.19m)	55.1 lbs (25.0 kg)	17.7
+118	Goldeen		WATER		2′0″ (0.61m)	33.1 lbs (15.0 kg)	40.3
+119	Seaking		WATER		4′3″ (1.30m)	86 lbs (39.0 kg)	23.1
+120	Staryu		WATER		2′7″ (0.79m)	76.1 lbs (34.5 kg)	55.3
+121	Starmie		WATER PSYCHIC	3′7″ (1.09m)	176.4 lbs (80.0 kg)	67.3
+122	Mr. Mime	PSYCHIC FAIRY	4′3″ (1.30m)	120.2 lbs (54.5 kg)	32.2
+123	Scyther		BUG FLYING	4′11″(1.50m)	123.5 lbs (56.0 kg)	24.9
+124	Jynx		ICE PSYCHIC	4′7″ (1.40m)	89.5 lbs (40.6 kg)	20.7
+125	Electabuzz	ELECTRIC	3′7″ (1.09m)	66.1 lbs (30.0 kg)	25.3
+126	Magmar		FIRE		4′3″ (1.30m)	98.1 lbs (44.5 kg)	26.3
+127	Pinsir		BUG 		4′11″(1.50m)	121.3 lbs (55.0 kg)	24.4 
+128	Tauros		NORMAL 		4′7″ (1.40m)	194.9 lbs (88.4 kg)	45.1 
+129	Magikarp	WATER 		2′11″(0.89m)	22 lbs (10.0 kg)	12.6 
+130	Gyarados	WATERFLYING	21′4″(6.50m)	518.1 lbs (235.0 kg)	5.6
+131	Lapras		WATERICE	8′2″ (2.49m)	485 lbs (220.0 kg)	35.5
+132	Ditto		NORMAL		1′0″ (0.30m)	8.8 lbs (4.0 kg)	44.4
+133	Eevee		NORMAL		1′0″ (0.30m)	14.3 lbs (6.5 kg)	72.2
+134	Vaporeon	WATER		3′3″ (0.99m)	63.9 lbs (29.0 kg)	29.6
+135	Jolteon		ELECTRIC	2′7″ (0.79m)	54 lbs (24.5 kg)	39.3
+136	Flareon		FIRE		2′11″(0.89m)	55.1 lbs (25.0 kg)	31.6
+137	Porygon		NORMAL		2′7″ (0.79m)	80.5 lbs (36.5 kg)	58.5
+138	Omanyte		ROCK WATER	1′4″ (0.41m)	16.5 lbs (7.5 kg)	44.6
+139	Omastar		ROCK WATER	3′3″ (0.99m)	77.2 lbs (35.0 kg)	35.7
+140	Kabuto		ROCK WATER	1′8″ (0.51m)	25.4 lbs (11.5 kg)	44.2
+141	Kabutops	ROCK WATER	4′3″ (1.30m)	89.3 lbs (40.5 kg)	24.0
+142	Aerodactyl	ROCK FLYING	5′11″(1.80m)	130.1 lbs (59.0 kg)	18.2
+143	Snorlax		NORMAL 		6′11″(2.11m)	1014.1 lbs (460.0 kg)	103.3 
+144	Articuno	ICE FLYING	5′7″ (1.70m)	122.1 lbs (55.4 kg)	19.2 
+145	Zapdos		ELECTRIC FLYING	5′3″ (1.60m)	116 lbs (52.6 kg)	20.5 
+146	Moltres		FIRE FLYING	6′7″ (2.01m)	132.3 lbs (60.0 kg)	14.9 
+147	Dratini		DRAGON		5′11″(1.80m)	7.3 lbs (3.3 kg)	1.0 
+148	Dragonair	DRAGON		13′1″(3.99m)	36.4 lbs (16.5 kg)	1.0 
+149	Dragonite	DRAGON FLYING	7′3″ (2.21m)	463 lbs (210.0 kg)	43.0 
+150	Mewtwo		PSYCHIC		6′7″ (2.01m)	269 lbs (122.0 kg)	30.2 
+151	Mew		PSYCHIC		1′4″ (0.41m)	8.8 lbs (4.0 kg)	23.8	
